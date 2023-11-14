@@ -1,0 +1,15 @@
+C:\Users\Benjamin Bencosme\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Curso ASP.NET Core MVC(7.0)\SistemaInventario\SistemaI.Modelos\bin\Debug\net7.0\SistemaI.Modelos.deps.json
+C:\Users\Benjamin Bencosme\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Curso ASP.NET Core MVC(7.0)\SistemaInventario\SistemaI.Modelos\bin\Debug\net7.0\SistemaI.Modelos.dll
+C:\Users\Benjamin Bencosme\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Curso ASP.NET Core MVC(7.0)\SistemaInventario\SistemaI.Modelos\bin\Debug\net7.0\SistemaI.Modelos.pdb
+C:\Users\Benjamin Bencosme\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Curso ASP.NET Core MVC(7.0)\SistemaInventario\SistemaI.Modelos\bin\Debug\net7.0\SistemaI.Utilidades.dll
+C:\Users\Benjamin Bencosme\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Curso ASP.NET Core MVC(7.0)\SistemaInventario\SistemaI.Modelos\bin\Debug\net7.0\SistemaI.Utilidades.pdb
+C:\Users\Benjamin Bencosme\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Curso ASP.NET Core MVC(7.0)\SistemaInventario\SistemaI.Modelos\obj\Debug\net7.0\SistemaI.Modelos.csproj.AssemblyReference.cache
+C:\Users\Benjamin Bencosme\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Curso ASP.NET Core MVC(7.0)\SistemaInventario\SistemaI.Modelos\obj\Debug\net7.0\SistemaI.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benjamin Bencosme\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Curso ASP.NET Core MVC(7.0)\SistemaInventario\SistemaI.Modelos\obj\Debug\net7.0\SistemaI.Modelos.AssemblyInfoInputs.cache
+C:\Users\Benjamin Bencosme\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Curso ASP.NET Core MVC(7.0)\SistemaInventario\SistemaI.Modelos\obj\Debug\net7.0\SistemaI.Modelos.AssemblyInfo.cs
+C:\Users\Benjamin Bencosme\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Curso ASP.NET Core MVC(7.0)\SistemaInventario\SistemaI.Modelos\obj\Debug\net7.0\SistemaI.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin Bencosme\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Curso ASP.NET Core MVC(7.0)\SistemaInventario\SistemaI.Modelos\obj\Debug\net7.0\SistemaI.Modelos.csproj.CopyComplete
+C:\Users\Benjamin Bencosme\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Curso ASP.NET Core MVC(7.0)\SistemaInventario\SistemaI.Modelos\obj\Debug\net7.0\SistemaI.Modelos.dll
+C:\Users\Benjamin Bencosme\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Curso ASP.NET Core MVC(7.0)\SistemaInventario\SistemaI.Modelos\obj\Debug\net7.0\refint\SistemaI.Modelos.dll
+C:\Users\Benjamin Bencosme\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Curso ASP.NET Core MVC(7.0)\SistemaInventario\SistemaI.Modelos\obj\Debug\net7.0\SistemaI.Modelos.pdb
+C:\Users\Benjamin Bencosme\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Curso ASP.NET Core MVC(7.0)\SistemaInventario\SistemaI.Modelos\obj\Debug\net7.0\ref\SistemaI.Modelos.dll

@@ -1,0 +1,12 @@
+C:\Users\Benjamin Bencosme\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Curso ASP.NET Core MVC(7.0)\SistemaInventario\SistemaI.Utilidades\bin\Debug\net7.0\SistemaI.Utilidades.deps.json
+C:\Users\Benjamin Bencosme\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Curso ASP.NET Core MVC(7.0)\SistemaInventario\SistemaI.Utilidades\bin\Debug\net7.0\SistemaI.Utilidades.dll
+C:\Users\Benjamin Bencosme\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Curso ASP.NET Core MVC(7.0)\SistemaInventario\SistemaI.Utilidades\bin\Debug\net7.0\SistemaI.Utilidades.pdb
+C:\Users\Benjamin Bencosme\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Curso ASP.NET Core MVC(7.0)\SistemaInventario\SistemaI.Utilidades\obj\Debug\net7.0\SistemaI.Utilidades.csproj.AssemblyReference.cache
+C:\Users\Benjamin Bencosme\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Curso ASP.NET Core MVC(7.0)\SistemaInventario\SistemaI.Utilidades\obj\Debug\net7.0\SistemaI.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benjamin Bencosme\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Curso ASP.NET Core MVC(7.0)\SistemaInventario\SistemaI.Utilidades\obj\Debug\net7.0\SistemaI.Utilidades.AssemblyInfoInputs.cache
+C:\Users\Benjamin Bencosme\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Curso ASP.NET Core MVC(7.0)\SistemaInventario\SistemaI.Utilidades\obj\Debug\net7.0\SistemaI.Utilidades.AssemblyInfo.cs
+C:\Users\Benjamin Bencosme\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Curso ASP.NET Core MVC(7.0)\SistemaInventario\SistemaI.Utilidades\obj\Debug\net7.0\SistemaI.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin Bencosme\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Curso ASP.NET Core MVC(7.0)\SistemaInventario\SistemaI.Utilidades\obj\Debug\net7.0\SistemaI.Utilidades.dll
+C:\Users\Benjamin Bencosme\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Curso ASP.NET Core MVC(7.0)\SistemaInventario\SistemaI.Utilidades\obj\Debug\net7.0\refint\SistemaI.Utilidades.dll
+C:\Users\Benjamin Bencosme\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Curso ASP.NET Core MVC(7.0)\SistemaInventario\SistemaI.Utilidades\obj\Debug\net7.0\SistemaI.Utilidades.pdb
+C:\Users\Benjamin Bencosme\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Curso ASP.NET Core MVC(7.0)\SistemaInventario\SistemaI.Utilidades\obj\Debug\net7.0\ref\SistemaI.Utilidades.dll
